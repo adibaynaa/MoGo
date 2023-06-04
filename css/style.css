@@ -25,6 +25,10 @@ img{
 /* ===== common css ends ===== */
 
 
+body{
+    background-color: red !important;
+}
+
 /* ===== header section starts ===== */
 #banner{
     background-image: url(../images/banner.jpg);
